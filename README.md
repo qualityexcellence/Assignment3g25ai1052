@@ -123,11 +123,11 @@ sudo apt install python3 python3-psutil stress -y
 
 ### 2️⃣ Google Cloud Authentication
 
-Authenticate using Service Account:
+Authenticate using Service Account: remember to set projectid and not project name and correct key file.
 
 ```bash
-gcloud auth activate-service-account --key-file=autoscale-key.json
-gcloud config set project Assignment2g25ai1052
+gcloud auth activate-service-account --key-file=autoscale-key1.json
+gcloud config set project assignment2g25ai1052
 ```
 
 ---
