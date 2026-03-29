@@ -156,6 +156,25 @@ Threshold:
 
 Open another terminal:
 
+Linux gives you multiple terminals automatically.
+
+Press:
+CTRL + ALT + F2
+
+You will see another login screen.
+
+Login again with:
+
+username: ubuntu
+password: your password
+
+Now you have:
+
+Terminal 1 → running monitor.py
+Terminal 2 → run stress command
+To go back to first terminal:
+CTRL + ALT + F1
+
 ```bash
 stress --cpu 4 --timeout 60
 ```
