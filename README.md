@@ -106,6 +106,12 @@ Assignment3-AutoScaling/
 
 Create Ubuntu VM using VirtualBox.
 
+Login as username - ubuntu password - ubuntu
+
+<img width="1637" height="977" alt="image" src="https://github.com/user-attachments/assets/4dee6853-96bf-498d-a276-6bfef052d970" />
+
+
+
 Install dependencies:
 
 ```bash
