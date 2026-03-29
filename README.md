@@ -248,7 +248,7 @@ Video walkthrough showing:
 * Cloud VM creation
 
 ```
-<PASTE VIDEO LINK HERE>
+https://www.youtube.com/watch?v=1irE6yOj-XU
 ```
 
 ---
